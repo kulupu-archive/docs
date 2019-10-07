@@ -21,7 +21,7 @@ framework.
 
 <section markdown="1">
 
-## About Solri
+## About Kulupu
 
 Kulupu is a sister project related to Solri. Kulupu's goal is to
 create a working proof-of-work blockchain built using unmodified
