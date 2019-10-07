@@ -8,6 +8,12 @@ toc_pages:
     subtitle: Github Repository for the Rust Implementation
     abstract: >
       Our mainnet has launched!
+  - url: https://telemetry.polkadot.io/#list/Kulupu
+    title: Network Status
+    subtitle: Polkadot Telemetry for Kulupu
+    abstract: >
+      This shows network status, using nodes that voluntarily 
+      participate in telemetry on the Kulupu network.
   - url: https://riot.im/app/#/room/#kulupu:matrix.org
     title: Community
     subtitle: The Matrix Chatroom
